@@ -154,7 +154,7 @@ namespace Platformer
 
         public void setEvents()
         {
-            game1.eventHandler.eventList.Add(new Event(Event.GameEventType.bossBattle, new System.Drawing.PointF(80, 12), new System.Drawing.SizeF(5, 5), 4, 50));
+            game1.eventHandler.eventList.Add(new Event(Event.GameEventType.battle, new System.Drawing.PointF(80, 12), new System.Drawing.SizeF(5, 5), 4, 50));
         }
 
         public void addEntity(FlatEntity entity)

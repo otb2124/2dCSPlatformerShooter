@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|c:\\users\\orest\\downloads\\pojects\\platformer\\res\\saves\\save01.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|solutionrelative:res\\saves\\save01.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|c:\\users\\orest\\downloads\\pojects\\platformer\\assetsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|solutionrelative:assetsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|c:\\users\\orest\\downloads\\pojects\\platformer\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|c:\\users\\orest\\downloads\\pojects\\platformer\\utils\\fontmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|solutionrelative:utils\\fontmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|c:\\users\\orest\\downloads\\pojects\\platformer\\physics\\flatworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE4B2F8-33C9-4751-962E-2AD1E3F7E72E}|Platformer.csproj|solutionrelative:physics\\flatworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "save01.json",
+              "DocumentMoniker": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\res\\saves\\save01.json",
+              "RelativeDocumentMoniker": "res\\saves\\save01.json",
+              "ToolTip": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\res\\saves\\save01.json",
+              "RelativeToolTip": "res\\saves\\save01.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T11:06:27.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlatWorld.cs",
+              "DocumentMoniker": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\Physics\\FlatWorld.cs",
+              "RelativeDocumentMoniker": "Physics\\FlatWorld.cs",
+              "ToolTip": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\Physics\\FlatWorld.cs",
+              "RelativeToolTip": "Physics\\FlatWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:00:22.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FontManager.cs",
+              "DocumentMoniker": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\Utils\\FontManager.cs",
+              "RelativeDocumentMoniker": "Utils\\FontManager.cs",
+              "ToolTip": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\Utils\\FontManager.cs",
+              "RelativeToolTip": "Utils\\FontManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:09:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetSetter.cs",
+              "DocumentMoniker": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\AssetSetter.cs",
+              "RelativeDocumentMoniker": "AssetSetter.cs",
+              "ToolTip": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\AssetSetter.cs",
+              "RelativeToolTip": "AssetSetter.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAuwJgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:09:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\orest\\Downloads\\pojects\\platformer\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAD4v/kAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:57:37.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
